@@ -13,7 +13,7 @@ velassco EC funded platform implementation.
 | LRB-spline analytics | SINTEF | Dual (AGPL v3/commercial) |
 | Kratos + GiD for FSI (Kratos VELaSSCo version) | CIMNE | Kratos OS (BSD), plugin MIT |
 | GID commercial / GiD VELaSSCo plugin | CIMNE | MIT |
-| iFX  VELaSSCo plugin | Fraunhofer | Commercial (selling license or version ) |
+| iFX  VELaSSCo plugin | Fraunhofer | Commercial |
 | LRB-splines visualization plugin | SINTEF | Dual (AGPL v3/commercial) |
 | Data Ingestion for DEM | JOTNE | MIT (DEM version of the Data Injector for compatibility with EDM.  It is open sourced to foster the creation of new or improved injections to EDM) |
 | EDM (EXPRESS Data Manager™) big data extensions | JOTNE | Commercial |
